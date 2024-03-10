@@ -5,4 +5,4 @@ if (window.location.origin.indexOf("gfa.my.id") < 0) {
     location.href = "about:blank";
     document.body.innerHTML = "";
     return true;
-       }
+}
